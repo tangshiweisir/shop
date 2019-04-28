@@ -1,6 +1,3 @@
 <?php
 header("content-type:text/html;charset=utf-8");
-echo 1;
-echo 2;
-echo 3;
-echo 4;
+发的发生的防控等级的发生变化地方经济发多少；
